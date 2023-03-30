@@ -24,3 +24,4 @@ Run your Project.
 
 You can Create New Employee Record, View All, Update a Record & Delete.
 
+![Asp net Crud operation](https://user-images.githubusercontent.com/121346220/228933938-d7de39bf-bd51-4c58-9aca-4b268322599b.PNG)
